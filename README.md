@@ -4,6 +4,10 @@ This app shows the weekly most popular movies in an horizontal carousel style.
 Data fetched from [The MoviesDB Api](https://developers.themoviedb.org/3/movies/get-movie-details).
 
 
+### Downloads
+[Download APK for Android](https://github.com/5haw4/TopMoviesRN/blob/master/TopMoviesAndroid.apk)
+
+
 ### Screenshots & Gifs
 
 ![alt Github can't show the gif, try different browser](https://github.com/5haw4/TopMoviesRN/blob/master/Screenshots/short-gif.gif)
