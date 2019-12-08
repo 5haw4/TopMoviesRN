@@ -5,7 +5,7 @@ Data fetched from [The MoviesDB Api](https://developers.themoviedb.org/3/movies/
 
 
 ### Downloads
-[Download APK for Android](https://github.com/5haw4/TopMoviesRN/blob/master/TopMoviesAndroid.apk)
+[Download APK for Android](https://github.com/5haw4/TopMoviesRN/raw/master/TopMoviesAndroid.apk)
 
 
 ### Screenshots & Gifs
