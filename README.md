@@ -35,6 +35,7 @@ Data fetched from [The MoviesDB Api](https://developers.themoviedb.org/3/movies/
 
 To get started just install all libraries
 ```
+cd MoviesApp
 npm install
 ```
 And expo if you don't have it already
