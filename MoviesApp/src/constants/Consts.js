@@ -1,6 +1,6 @@
 
 const apiBaseUrl = "https://api.themoviedb.org/3/movie/";
-const apiKey = "3cc8f72de2ed003a58014072ce9b54db";
+const apiKey = "<YOUR-TMDB-API-KEY>";
 
 export default {
     API_BASE_URL: apiBaseUrl,
