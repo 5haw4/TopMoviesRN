@@ -42,3 +42,4 @@ And expo if you don't have it already
 ```
 npm install expo-cli --global
 ```
+And then update the [Consts.js](https://github.com/5haw4/TopMoviesRN/blob/master/MoviesApp/src/constants/Consts.js) file with your TMDB api key
